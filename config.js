@@ -21,7 +21,7 @@ global.CHATBOT = false;
 
 
 global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.OwnerName =  "Dan";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
@@ -38,7 +38,7 @@ global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic7.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
-global.OwnerNumber = [""] //Ignore,Unused
+global.OwnerNumber = ["254769917094"] //Ignore,Unused
 
 //
 global.ntilinkytvid = []
